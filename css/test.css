@@ -19,3 +19,6 @@ span{
 h2 span{
   text-decoration: line-through;
 }
+body{
+  background-color: lightgreen;
+}
