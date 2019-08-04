@@ -1,3 +1,5 @@
+
+
 header{
   background-color: #f0dfad;
   padding: 40px;
@@ -6,9 +8,10 @@ header{
 
 h1{
   font-size: 90px;
-  color: white;
+  color: black;
 }
 
 header img{
   border-radius: 150px;
+  border: 10px solid #f0dfbd;
 }
